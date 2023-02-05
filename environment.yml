@@ -1,0 +1,11 @@
+name: uBBot
+channels:
+  - defaults
+dependencies:
+  - python=3.7.15=h7a1cb2a_1
+  - selenium=3.141.0=py37h14c3975_1001
+  - zlib=1.2.13=h5eee18b_0
+  - pip:
+      - pytz==2022.7
+      - pyyaml==6.0
+      - webdriver-manager==3.8.5
